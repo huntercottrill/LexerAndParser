@@ -4,7 +4,7 @@ Follow the instructions using Java code and documentation. Submit the indicated 
 assignment in the eCampus lecture section by the due date on the course calendar. For each source file, include a comment with 
 your full name as author and a statement acknowledging that your work complies with the academic integrity policy. 
 # UNIT 1 | LEXER 
-Topics: Finite state automata (FSA), lexical analysis (lexer), tokens, lexemes 
+Topics: Finite state automata (FSA), lexical analysis (lexer), tokens, lexemes <br/>
   FINITE STATE AUTOMATON 
   A Diagram a finite state automaton which tokenizes the terminals of the grammar in this document (see the appendix). 
   B Illustrate the diagram using professional software and publish it as a 📎 PDF document. 
